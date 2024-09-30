@@ -1,0 +1,18 @@
+/* Te style działają na całej domenie instaling.pl */
+
+/* Cała strona */
+body {
+    background: linear-gradient(to bottom, #09090d 150px,#070809 650px) !important;
+    color: #f1f1f1;
+}
+
+/* Nie pamiętam co to robi */
+h1 {
+    color: linear-gradient(to right, #c0cdce 50px,#647f82 650px) !important;
+}
+
+/* Przyciski */
+#nextword, #check, #return_mainpage, #comment_button, #comment_back_button, #login_button, #logout_button, .big_button, .special_character_button {
+    background: #c0cdce !important;
+    color: #000 !important;
+}

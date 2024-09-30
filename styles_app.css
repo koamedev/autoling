@@ -1,0 +1,30 @@
+/* Te style działają tylko na stronie z fiszkami */
+
+/* div z podpowiedzią */
+#al_hint {
+    text-align: center;
+    padding-bottom: 20px;
+    color: #ffcb71;
+}
+
+/* Pozwala na panel konfiguracyjny z prawej */
+body {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+/* Panel konfiguracyjny */
+#al_conf {
+    margin-right: 32px;
+    text-align: right;
+    color: #f1f1f1;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 200px; 
+    height: 100%; 
+}
+#al_conf h2 {
+    color:#ffcb71;
+}
