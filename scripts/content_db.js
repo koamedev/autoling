@@ -73,7 +73,7 @@ function injectAnswerFromHint() {
   fetch(chrome.runtime.getURL('/conf.html')).then(r => r.text()).then(html => {
     document.body.insertAdjacentHTML('beforeend', html);
     
-    enabledToggle = document.getElementById('al_enabled_toggle');
+    const enabledToggle = document.getElementById('al_enabled_toggle');
     enabledToggle.checked = enabled;
     enabledToggle.addEventListener('change', function() {
       if (this.checked) {
@@ -83,7 +83,7 @@ function injectAnswerFromHint() {
       }
     });
 
-    autofillButton = document.getElementById('al_autofill');
+    const autofillButton = document.getElementById('al_autofill');
     autofillButton.checked = enabled;
     autofillButton.addEventListener('change', function() {
       if (this.checked) {
@@ -95,7 +95,81 @@ function injectAnswerFromHint() {
         localStorage.removeItem("al_autofill");
       }
     });
+    
+    const exportButton = document.getElementById("al_exportdata");
+    const importButton = document.getElementById("al_importdata");
+  
+    exportButton.addEventListener("click", exportDataToFile);
+    importButton.addEventListener("click", importDataFromFile);
   });
+
+  function exportDataToFile() {
+      console.log("Eksportowanie danych AutoLing...");
+      let data = '';
+      for (let i = 0; i < localStorage.length; i++) {
+          const key = localStorage.key(i);
+          if (!key) continue;
+          if (key.startsWith('al_')) {console.log(key); continue;};
+          const value = localStorage.getItem(key);
+          data += `KEY: ${key} VALUE: ${value}\n`; 
+      }
+      // console.log(data);
+
+      // Zapisz do pliku
+      const blob = new Blob([data], { type: 'text/plain' });
+      // To serio w ten sposob trzeba pobrać lol
+      const a = document.createElement('a');
+      url = URL.createObjectURL(blob);
+      a.href = url;
+      a.download = 'AutoLing_data.txt';
+      document.body.appendChild(a);
+      a.click();
+
+      URL.revokeObjectURL(url);
+      document.body.removeChild(a);
+  }
+
+  // Czyta z pliku danego z elementu
+  function importDataCallback(input) {
+    const file = input.target.files[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+
+    reader.onload = function(e) {
+        const fileContents = e.target.result;
+        const lines = fileContents.split('\n');
+
+        // Zapisanie danych w pamięci przeglądarki
+        lines.forEach(line => {
+          try {
+            if (!line) return;
+            const key = line.split("KEY: ")[1].split(" VALUE: ")[0];
+            const value = line.split("VALUE: ")[1];
+            if (key && value) {
+              // console.log("k: " + key + " v: " + value + "\n");
+                localStorage.setItem(key.trim(), value.trim());
+            }
+          } catch (error) {
+            alert(error);
+            return;
+          }
+        });
+    };
+    reader.readAsText(file);
+    }
+  }
+
+  // tworzy element pozwalający na upload pliku
+  function importDataFromFile() {
+    console.log("Importowanie danych AutoLing...");
+    const fileInput = document.createElement('input');
+    fileInput.type = 'file';
+    fileInput.addEventListener('change', importDataCallback);
+
+    document.body.appendChild(fileInput);
+    fileInput.click();
+    document.body.removeChild(fileInput);
 }
 
 
