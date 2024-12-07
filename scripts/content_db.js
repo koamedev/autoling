@@ -84,7 +84,7 @@ function injectAnswerFromHint() {
     });
 
     const autofillButton = document.getElementById('al_autofill');
-    autofillButton.checked = enabled;
+    autofillButton.checked = autofill;
     autofillButton.addEventListener('change', function() {
       if (this.checked) {
         autofill = true;
