@@ -1,3 +1,4 @@
+KEY: _______ ______ is not always healthy, but it can help us get through difficult emotional times. VALUE: comfort eating
 KEY: Nina seems a ________ girl. VALUE: childish
 KEY: He didn't want to talk on the topic ___ the ____ __ his children. VALUE: for the sake of something
 KEY: I've found a lovely _____ on the beach. VALUE: stone
@@ -34,7 +35,9 @@ KEY: Mark is thinking about ________ _ running ___________. VALUE: enter a compe
 KEY: Can I _______ __ you? VALUE: confide in somebody
 KEY: He always ____ me a lot of ___________. VALUE: pay a compliment
 KEY: I felt relaxed and ________. VALUE: peaceful
+KEY: The combination of flavours in this dish creates unexpected ______ ________. VALUE: foodie delights
 KEY: My mum thinks that in the future _____ _______ will do most of the housework for us. VALUE: smart device
+KEY: I'm _____ __ go to the shop. Do you want something? VALUE: be about to do something
 KEY: As a gift, I'd like to ___________ my car. VALUE: personalise
 KEY: The treatment employs ____________ technology from the USA. VALUE: cutting-edge
 KEY: Being the capital, the city was _______ _________. VALUE: densely populated
@@ -82,6 +85,7 @@ KEY: How are they going to __________ for the damage? VALUE: compensate
 KEY: I was __ ________, awaiting how the film would end. VALUE: be in suspense
 KEY: Government opponents in some countries have to deal with ___________. VALUE: persecution
 KEY: The company announced a _______ in expenses to help manage rising costs. VALUE: cutback
+KEY: Let’s go to the bakery; I know you’re a ______ ___ their cinnamon rolls. VALUE: be a sucker for something
 KEY: I try to _______ all the plants in the house every day. VALUE: nurture
 KEY: She's been really _________, don't you think? VALUE: intrusive
 KEY: The ____ in the book is really complicated. I'll have to read it again to understand what's going on. VALUE: plot
@@ -106,6 +110,7 @@ KEY: You should never ____ ____ __ others. VALUE: look down on
 KEY: The sausage was ________ on the frying pan. VALUE: meat sizzling
 KEY: I didn't like that coffee. It was weak and ______. VALUE: watery
 KEY: I try to have a ________ ____ on the subject, but it's not always easy. VALUE: balanced view
+KEY: Trying to teach him punctuality is a ____ _____. VALUE: lost cause
 KEY: I can't ______ ___ what to do about tomorrow's party. I really don't want to go. VALUE: figure out
 KEY: They arranged a __________ time to meet. VALUE: convenient
 KEY: How many __________ can you name? VALUE: amphibian
@@ -114,6 +119,7 @@ KEY: Smokers know their addiction is ___________ to their health, don't they? VA
 KEY: Your actions are laudable but ___________. VALUE: ineffective
 KEY: My roommate and I will remain _______ ___ ____. VALUE: friends for life
 KEY: As the balloon was inflated, it began to _____ at the sides, revealing how much air was being pumped inside. VALUE: bulge
+KEY: A warm and _______ ____ is precisely what I need on a cold winter evening. VALUE: filling meal
 KEY: Swiss army knives are very _________, so make sure to take one on a camping trip. VALUE: versatile
 KEY: He __ _______ __ murder. VALUE: be accused of
 KEY: I don't know how to get out of my _______ ____. VALUE: comfort zone
@@ -154,7 +160,9 @@ KEY: We may _____ ___ ____, but we'll get there eventually. VALUE: start out poo
 KEY: Her passion for learning was the  _______  _____  that motivated her to pursue continuous growth VALUE: driving force
 KEY: He was moaning and ________ all night. VALUE: groan
 KEY: What _________ __________ does he keep in his kitchen? VALUE: household appliance
+KEY: They finally ____________ that they were guilty. VALUE: acknowledge
 KEY: He's credulous and _________. I'm afraid someone will hurt him sooner or later. VALUE: ingenuous
+KEY: He was so hungry that he ________ his meal in a blink of an eye. VALUE: devour
 KEY: Mark _____ at his wife. VALUE: gaze
 KEY: ____ not _________ __ come too early if you have an appointment for 8. VALUE: it's advisable to
 KEY: You really _______ everyone's _________ with your nasty comment. VALUE: wreck somebody's enjoyment
@@ -179,8 +187,10 @@ KEY: She didn't want to be a part of this _____ ______ and decided to work for a
 KEY: The actor was ___ ___ of the film after the scandal was discovered. VALUE: cut out
 KEY: Keeping that secret to myself was unbearable, so I decided to ______ the _____ at last. VALUE: reveal the truth
 KEY: Call me only in case of _______. VALUE: urgency
+KEY: Just make this beef ______. I don't like tough meat. VALUE: tender
 KEY: Remember it's your ____ to tidy your bedroom. VALUE: duty
 KEY: ____ ___ _______ when you tell her what you feel. VALUE: make eye contact
+KEY: You should sit for a while and let your ______ __ ____ before exercising. VALUE: let your dinner go down
 KEY: ______ __ _____ I'll finish this essay. VALUE: sooner or later
 KEY: __ ________ to what he said, I remind you of following the regulations. VALUE: in addition
 KEY: If you ______ cancer early enough, it's likely to be cured. VALUE: detect
@@ -200,6 +210,7 @@ KEY: Our holiday was so ___________ we didn't want to go back home. VALUE: pleas
 KEY: This essay is written ____ __ ____ correctly. VALUE: more or less
 KEY: It ______ ___ that we had made a serious mistake. VALUE: turn out
 KEY: The cat was _______ as she was stroking him. VALUE: purr
+KEY: Whenever I make a salad, I always add a _____ of _____ for a natural, fresh taste. VALUE: sprig of herbs
 KEY: ________ fuel was taxed. VALUE: aviation
 KEY: Does she really think she's ________ to us? What a conceited girl she is! VALUE: superior
 KEY: I admired the creativity which _________ among the young writers. VALUE: prevail
@@ -231,6 +242,7 @@ KEY: I would ______ the chance to work for that company. VALUE: relish
 KEY: The accident was serious, but he got ___ of it __________ _______. VALUE: get off relatively lightly
 KEY: Whenever you can try _____ ______ _________. VALUE: use public transport
 KEY: Being in a healthy relationship is often about ____________ and admitting you're wrong. VALUE: compromise
+KEY: You can make french fries by using a _____. VALUE: fryer
 KEY: The riot began with a couple of ______ shots. VALUE: random
 KEY: It's very hot - turn on the ___.   VALUE: fan
 KEY: This tv is ________ operated, so you won't do anything without a working remote. VALUE: remotely
@@ -243,6 +255,8 @@ KEY: Do you want me to take a portrait or a _________ _____? VALUE: landscape ph
 KEY: While hiking, always follow the ______ ____. VALUE: marked path
 KEY: She is so _________ and innocent that nobody suspects she could have robbed the bank. VALUE: childlike
 KEY: The ball _______ past his head, barely missing him. VALUE: whizz
+KEY: They've already ______ ___ the railway station. VALUE: head for
+KEY: The reader can be confused by the _____________ statements presented in the paper. VALUE: contradictory
 KEY: The two of them haven't been _______ __ for ages now. VALUE: get on
 KEY: Yes, he ______ me twice, but I didn't feel like answering. VALUE: text
 KEY: I swear, I didn't do it __ _______. It was an accident. VALUE: on purpose
@@ -266,6 +280,7 @@ KEY: She _______ at the door, but there was no answer. VALUE: thump
 KEY: The boat was ________ away from the shore. VALUE: drift
 KEY: I've just had a cup of coffee and a _________. VALUE: croissant
 KEY: Mary's an ____ _____.  She hasn't got any brothers or sisters. VALUE: only child
+KEY: Has anyone seen the ________ of ______ _________ I left on the counter? VALUE: sprinkle of grated chocolate
 KEY: The poacher was furious - the _____ was empty again. VALUE: snare
 KEY: The children were playing with their _____ ___ toys. VALUE: brand new
 KEY: I'm counting on you so don't ___ me ____. VALUE: let down
@@ -279,13 +294,14 @@ KEY: She received the award in ___________ of her charity work. VALUE: recogniti
 KEY: How many _______ __ ______ do you know? VALUE: species of plants
 KEY: I __ still _____ with writing my master's thesis. VALUE: be stuck
 KEY: His ideas were misuderstood and _________. VALUE: ridicule
-KEY: Martina ____ _____ _____ by physical strength and fitness. VALUE: set great store by sth
 KEY: He _______ a few pounds ___ the original price. VALUE: knock off
 KEY: Her smile _______ changed into a frown. VALUE: rapidly
-KEY: After the ______ was _______, he was in the public eye for months. VALUE: expose a secret
 KEY: You might have ____ ___ on this opportunity, but there will come more. VALUE: lose out
+KEY: After the ______ was _______, he was in the public eye for months. VALUE: expose a secret
 KEY: He ____ a ________ _______ in pubs. VALUE: do a stand-up routine
 KEY: Long exposure to too much light can lead to ___ ______. VALUE: eye damage
+KEY: Martina ____ _____ _____ by physical strength and fitness. VALUE: set great store by sth
+KEY: The medicine needs a few minutes to ____ __. VALUE: kick in
 KEY: The landlord showed us an ________ living room with a fireplace. VALUE: outsized
 KEY: He's an honest and generally ______ man. VALUE: decent
 KEY: Nothing will ever look the same since that ______ moment. VALUE: iconic
@@ -311,6 +327,7 @@ KEY: She has _______ all of my words. VALUE: negate
 KEY: Did you ____ __ my _______? VALUE: pass on a message
 KEY: I like to walk ________.  VALUE: barefoot
 KEY: They're taking __ _ _________ and they're going to Africa. VALUE: take on a challenge
+KEY: She always __________ __ everything she takes up. VALUE: persevere in something
 KEY: First they went to church for a special mass and a ________. VALUE: blessing
 KEY: It’s really hard to ___ __ ____ him. He’s insolent and rude. VALUE: put up with
 KEY: He practised meditation in a _______ monastery. VALUE: Tibetan
@@ -329,6 +346,7 @@ KEY: Your presence somehow _________ me ____ learning. VALUE: distract somebody 
 KEY: I love _____ ___ _____. VALUE: peace and quiet
 KEY: Pepole can _______ __ their rubbish over there. VALUE: dispose of
 KEY: The __________ capital is Panama City. VALUE: Panamanian
+KEY: Kate tends to _____ on sweets whenever she’s feeling down or stressed out. VALUE: binge
 KEY: Don't worry, you're going to ____ _______ all the problems! VALUE: sail through something
 KEY: Genes are  ______ __ from one generation to the next. VALUE: pass on
 KEY: After the whole life of being on the move, I'd like to settle somewhere and just ___ ____ _____. VALUE: put down roots
@@ -340,6 +358,7 @@ KEY: You might feel _________ after taking this medication. VALUE: dizziness
 KEY: The meeting will ________ shortly. VALUE: conclude
 KEY: Here we have a really __________ _________. VALUE: tight-knit community
 KEY: Don't leave, you'll ____ ___ on the best moment of the film. VALUE: miss out
+KEY: My grandma, who is 94, is suffering from ________. VALUE: insomnia
 KEY: What you're telling me sounds absolutely __________! VALUE: ridiculous
 KEY: What _______ _____ this accident was his careless driving. VALUE: bring about
 KEY: She felt ________ to agree with Harry's opinion. VALUE: inclined
@@ -364,6 +383,7 @@ KEY: I couldn't ____ __ a word of what he was saying. VALUE: take in
 KEY: A new breakthrough in the investigation ____ some _____ __ the case. VALUE: shed light on something
 KEY: The leader _____ the members of the party to vote for the bill. VALUE: urge
 KEY: The question remained unanswered, because it was not ________ to the topic of the conference. VALUE: relevant
+KEY: His mother always serves a _____ of ___ _____ on top of her homemade apple pie. VALUE: scoop of ice cream
 KEY: Bored students often ______ with their pens or aimlessly scribble in their notebooks. VALUE: fidget
 KEY: They were hoping for an ___________ of their living conditions. VALUE: improvement
 KEY: Mice, hamsters, rabbits, rats and guinea pigs are _______. VALUE: rodent
@@ -398,8 +418,10 @@ KEY: I really wanted to share my point of view, but I didn't manage to ___ a ___
 KEY: She lived in an ________ house. VALUE: enormous
 KEY: It was a _____ incident, without any consequences. VALUE: minor
 KEY: Only then did she _______ how complex the whole situation was. VALUE: realise
+KEY: She finally ____ __ __ her cravings and ate a piece of chocolate cake. VALUE: give in to something
 KEY: Your smoking ___ a ________ ______ also on the rest of your family, as they are passive smokers. VALUE: have a negative impact on something
 KEY: Which school does your sister ______? VALUE: attend
+KEY: As the flowers bloomed, the garden _____ ____ colour and life. VALUE: ooze with something
 KEY: She ________ and fell, bruising her arm. VALUE: stumble
 KEY: He ran into the building, _______ and wheezing. VALUE: gasp
 KEY: He put on a ______ coat. VALUE: cheesy
@@ -409,6 +431,7 @@ KEY: The king welcomed us to his beautiful _____. VALUE: realm
 KEY: Let's _____ _ ____, it's getting cold. VALUE: light a fire
 KEY: Relax and ____ _ ______. VALUE: have a lie-in
 KEY: Warsaw has a very _______ _________. VALUE: vibrant nightlife
+KEY: It's not possible to ______ the traffic jams in Warsaw. VALUE: bypass
 KEY: The ___________ voice echoed through the empty hall, sending chills down her spine. VALUE: disembodied
 KEY: After all these years, the man is still an ______ to me. VALUE: enigma
 KEY: We came home ____ ___ _____. VALUE: safe and sound
@@ -421,6 +444,7 @@ KEY: Is your school inclusive for the ___ _____? VALUE: the blind
 KEY: Their ______ discussion was interrupted by a door bell. VALUE: lively
 KEY: You should _______ this screw because it's too tight. VALUE: unscrew
 KEY: The bus with two levels is called _____________ ___. VALUE: double-decker bus
+KEY: The spinach was ____ and soggy after being cooked for too long. VALUE: limp
 KEY: ____ the dough with a beater, I can still see some flour lumps in there. VALUE: stir
 KEY: After a long voyage they got to the ________. VALUE: mainland
 KEY: The island was _________ by dinosaurs. VALUE: inhabited
@@ -475,7 +499,9 @@ KEY: Changing school has some _____________, but on the whole I believe it's the
 KEY: Nowadays people _______ more and more _____. VALUE: produce waste
 KEY: He walked briskly, _________ a briefcase in his hands. VALUE: clutch
 KEY: Sometimes criminals ___ ____ with the punishment. VALUE: get away
+KEY: Be careful! The water is ________, and it could burn you. VALUE: scalding
 KEY: The _______ was possible thanks to the cooperation of different police departments. VALUE: capture
+KEY: The food was so heavy and spicy, his body struggled to ______ it. VALUE: digest
 KEY: An _____________ ____________ is someone who deals with the influence of the environment on humans. VALUE: environmental psychologist
 KEY: The accident occurred because of a _____ _____. VALUE: human error
 KEY: Her ____________ voice sometimes gives me a headache. VALUE: high-pitched
@@ -507,6 +533,7 @@ KEY: How hard is the annual _______ _________ by your business? VALUE: generate 
 KEY: The famous selfie from the Oscars ____ _____. VALUE: go viral
 KEY: I had difficulty concentrating, because the _______ was _______ all the time. VALUE: machine humming
 KEY: The ________ ___________ in the city dropped considerably after introducing different education programmes. VALUE: juvenile delinquency
+KEY: The dessert looks very ________. VALUE: tempting
 KEY: Eventually I'd like to ______ ____ and start a family, but not yet. VALUE: settle down
 KEY: The idea of leaving it all behind and going on a journey round the world really ______ me. VALUE: tempt
 KEY: I find it difficult to believe he's been _______ of the consequences. VALUE: unaware
@@ -528,6 +555,8 @@ KEY: Christmas and Easter are both ______ ________. VALUE: annual holiday
 KEY: In high school ____________ ______ are developed. VALUE: transferable skills
 KEY: Although they were born in a village, they are very __________. VALUE: streetwise
 KEY: He was caught paying with ____ money. VALUE: fake
+KEY: Don’t _______ me with questions right now; I need a moment to think. VALUE: bombard
+KEY: She likes languages and she _____ her ____ __ teaching. VALUE: try your hand at
 KEY: As a __________ __________, my brother helps different companies to enhance their effectiveness. VALUE: management consultant
 KEY: You should never ____ ____ __ others.  VALUE: look down on
 KEY: Politicians are supposed to act __ the ______ ________. VALUE: in the public interest
@@ -551,6 +580,7 @@ KEY: The TV chef showed how to _____ the meat into balls. VALUE: mould
 KEY: Who's going to ______ the unpleasant _______? VALUE: convey a message
 KEY: How could you not have seen this film? It's _ __________! VALUE: be a must-watch
 KEY: You can never _______ ___ ________. VALUE: disturb the wildlife
+KEY: Peaches are _________ and sweet in taste. VALUE: succulent
 KEY: _____ the cheese and put in on bread. VALUE: slice
 KEY: How do you manage to ________ _____________ with your friends despite living on a different continent? VALUE: maintain relationships
 KEY: It was _____________ and tragic news. VALUE: heartbreaking
@@ -570,6 +600,7 @@ KEY: In his book, he presents his vision of a _________ future. VALUE: dystopian
 KEY: If something happens, send us _____ _______. VALUE: smoke signals
 KEY: She tends to _____ a little, but that's normal with teenagers. VALUE: rebel
 KEY: As a ______ servant of Your Majesty, I wish to ask for your consent. VALUE: humble
+KEY: I've got ______ _____. VALUE: hunger pangs
 KEY: Don't leave the building without __________. VALUE: permission
 KEY: What I love the most about my girlfriend is her ___________. VALUE: spontaneity
 KEY: She became a ______ for the cause of human rights, sacrificing her own safety to bring attention to the injustices faced by others. VALUE: martyr
@@ -579,8 +610,11 @@ KEY: We could see a _______ stars in the sky. VALUE: billion
 KEY: I was ill so I have to _____ __ __ school work. VALUE: catch up on
 KEY: I thought being a programmer and travelling can't go in pair, but then I became a _______ _____. VALUE: digital nomad
 KEY: My memory is still __________ by the occurrences of the war. VALUE: victimised
+KEY: Finally, you must add a _____ __ ____ and pepper. VALUE: pinch of salt
 KEY: The activist was __________ solely because of her political views. VALUE: victimise
+KEY: The meals they offer are too ______ for me. VALUE: stodgy
 KEY: I put paper and bottles in the _________ ___. VALUE: recycling bin
+KEY: They cancelled the event, and it’s ____ __ ____ because I wasn’t feeling well. VALUE: it's just as well
 KEY: Burger without ketchup and __________ is not a real burger. VALUE: mayonnaise
 KEY: "The _______ ______ of today's lesson will be the Earth's atmosphere", said the teacher. VALUE: subject matter
 KEY: She tends to treat people as if they were ________ to her. VALUE: inferior
@@ -590,6 +624,7 @@ KEY: No one recognised her due to the change of her __________. VALUE: appearanc
 KEY: ______ her mom, she's got brown hair. VALUE: unlike
 KEY: Tom is a ________ and humble young man. VALUE: likeable
 KEY: I haven't managed to ___ _____ in my career yet. VALUE: get ahead
+KEY: The waiter carefully placed a _____ of _____ on the edge of my glass. VALUE: slice of lemon
 KEY: Be careful what you say – she’s very ____________. VALUE: thin-skinned
 KEY: Some _____________ people cannot tolerate diversity. VALUE: narrow-minded
 KEY: Sally always needed someone to ____ __ __ and imitate. I wish she were more self-reliant. VALUE: look up to
@@ -641,6 +676,7 @@ KEY: Isaac Newton was a famous _________ who lived in the 17th century. VALUE: p
 KEY: You really ___ me __ the ____ with your unexpected decision. VALUE: put somebody on the spot
 KEY: This animal species is very ____. VALUE: rare
 KEY: Having travelled to Africa, he has finally fulfilled his ________ _____. VALUE: lifelong dream
+KEY: Make sure the cream is _______ and smooth before adding it to the dessert. VALUE: velvety
 KEY: We usually ____ _____ ____ when we meet in the elevator. VALUE: make small talk
 KEY: John can't work because of his __________. VALUE: disability
 KEY: His tender care and love _________ Amy throughout her illness. VALUE: sustain
@@ -656,12 +692,14 @@ KEY: A cholera ________ killed thousands of people. VALUE: outbreak
 KEY: How do you like my new ______? VALUE: outfit
 KEY: While acting, try to _____ _______. VALUE: sound natural
 KEY: Life may not be easy if you have a ______ to _______. VALUE: support a family
+KEY: At the party, the guests eagerly dug into the ____ of _________ placed on the dessert table. VALUE: slab of chocolate
 KEY: My dog looks very ___________ when he jumps. VALUE: picturesque
 KEY: Add some _______ to the salad. VALUE: vinegar
 KEY: Cultural ___________ of this city is famous all over the world. VALUE: inheritance
 KEY: Do you have a _____ __ _________? VALUE: sense of community
 KEY: These areas are ________ by the sea. VALUE: isolated
 KEY: ________________, I had to make the decision that I had feared. VALUE: heartbreakingly
+KEY: I had never tasted a dish with a ________ __ ______ sauce until I visited Italy. VALUE: spoonful of tomato sauce
 KEY: The soup was too ____. I had to add some pepper. VALUE: mild
 KEY: We went to see a _____ ______ today. VALUE: slate quarry
 KEY: Have you ever ______ _________ in the winter? VALUE: ride horseback
@@ -694,6 +732,7 @@ KEY: They stayed _________ and threw a party, so now they are exhausted. VALUE: 
 KEY: I'm finally able to ___ _____ some money thanks to a pay rise. VALUE: put something aside
 KEY: Did you ____ _______ ____ that new co-worker? VALUE: make contact with somebody
 KEY: Donna found it challenging to ________ the opponents. VALUE: confront
+KEY: Horror movies ____ me __________. VALUE: give someone nightmares
 KEY: Our hotel windows ________ the sea. VALUE: overlook
 KEY: The risk of _____ is increasing. VALUE: flood
 KEY: Only your support and good words used to ____ me _____. VALUE: keep somebody going
@@ -723,6 +762,9 @@ KEY: Has she lost her _______? What is she trying to achieve acting this way? VA
 KEY: Her boyfriend ______ _ _____ because he was driving a car drunk. VALUE: cause a crash
 KEY: His comments are really painful and ____________. VALUE: hard-hitting
 KEY: Being __________,  he couldn't read or write. VALUE: illiterate
+KEY: She loves _________ because it lets her create amazing stories.
+
+ VALUE: directing
 KEY: Our decision was based on the __________ that the funds had been granted. VALUE: assumption
 KEY: I was born in the nineties. I'm too old for __________ _. VALUE: Generation Z
 KEY: Where's that terrible ______ coming from? VALUE: stench
@@ -735,10 +777,11 @@ KEY: I do believe in ________________ beings. VALUE: extraterrestrial
 KEY: You need a ___________ to transport the grass. VALUE: wheelbarrow
 KEY: The punctual ___________ of the customer's order is not possible. VALUE: enforcement
 KEY: Today I saw an ________ at the zoo. VALUE: anteater
+KEY: Why don’t you try using ____ _______ for the new shelves? It will protect them for years. VALUE: wood varnish
 KEY: I didn't succeed to _________ close _______ ____ him. VALUE: establish contact with somebody
-KEY: ____ ______ are the largest animals on Earth. VALUE: blue whale
 KEY: Her ______ intrigue caused a lot of pain. VALUE: subtle
 KEY: The criminal stole the painting and then ___________ _______ _ _____. VALUE: disappear without a trace
+KEY: ____ ______ are the largest animals on Earth. VALUE: blue whale
 KEY: I'm going to ______ all my ______ one day. VALUE: pursue a dream
 KEY: I will _______ to help you find the solution. VALUE: attempt
 KEY: If the ______ is __________, it may mean it's hungry. VALUE: parrot screeching
@@ -778,6 +821,7 @@ KEY: After we _____ the ___, we became best friends. VALUE: break the ice
 KEY: To __________ medicine is to give it to a patient. VALUE: administer
 KEY: Many young people _____ ___ sports clothes just because they're so comfortable. VALUE: plump for
 KEY: Are we going to live in a ________? VALUE: dystopia
+KEY: If you don’t eat a proper breakfast, your ______ ______ will haunt you all day. VALUE: hunger demons
 KEY: His life is a typical ______________ story. VALUE: rags-to-riches
 KEY: Remember to ____ the door as you leave. VALUE: lock
 KEY: ______________ is a very important part of learning how to do your future job. VALUE: apprenticeship
@@ -809,6 +853,7 @@ KEY: This is an ____ of _______ ______, don't destroy it. VALUE: area of natural
 KEY: I ____ to get out alone after dark. VALUE: fear
 KEY: The politician gave us a ______ to fix the situation. VALUE: pledge
 KEY: Now I know that I've ____ some wrong __________. VALUE: make inferences
+KEY: The smell of freshly brewed coffee is known to be a strong ________ _______ in the morning. VALUE: appetite trigger
 KEY: They gathered to ________ and calculate the costs of the enterprise. VALUE: estimate
 KEY: It is _________ that the project is finished on time. VALUE: essential
 KEY: The clown didn't know how to ____ the children's ________. VALUE: keep somebody's interest
@@ -830,6 +875,9 @@ KEY: Would you like to _______ __ her essay? VALUE: comment on
 KEY: Maybe it's hard now, but it'll ____ ___ after all. VALUE: work out
 KEY: If you meet a stranger you can't be so ________. VALUE: trusting
 KEY: It's _____ that she take her medicine daily. VALUE: vital
+KEY: We found a ______ piece of cake under the kitchen counter. VALUE: mouldy
+KEY: All those birthday sweets made my _____ _____. VALUE: make one's mouth water
+KEY: The chips are crisp, never _____. VALUE: soggy
 KEY: The boy ______ his class mate and he fell down. VALUE: shove
 KEY: Education is a ______________ way to fight crime. VALUE: cost-effective
 KEY: This _______ shows the growth of sales over the ten-year period. VALUE: diagram
@@ -848,6 +896,7 @@ KEY: He has had both ___ ___ _____ in his career. VALUE: ups and downs
 KEY: It was a ___________ discovery. VALUE: significant
 KEY: What you see is not reality, just a __________! VALUE: projection
 KEY: We landed safe and _____. VALUE: sound
+KEY: She _____ into the room quietly. VALUE: creep
 KEY: Be careful, she's a ______ little witch. VALUE: crafty
 KEY: I have a pain in my ________.  VALUE: backbone
 KEY: We need to avoid using __________ _______ ________. VALUE: single-use plastic products
@@ -881,6 +930,7 @@ KEY: He's a human _____, like everybody else. VALUE: being
 KEY: Henry's listening to his favourite ________ _________, where listeners can call and share their opinions. VALUE: phone-in programme
 KEY: When is she going to ____ ____ __ school? VALUE: come back to
 KEY: I'm her real fan. __ ____, I haven't missed any of her concerts so far. VALUE: in fact
+KEY: The team’s victory was ___ ____ __ the brilliant strategy devised by their coach. VALUE: be all down to
 KEY: undefined VALUE: affect
 KEY: The manager considered the _________ of costs. VALUE: reduction
 KEY: His _________ doesn't stop him from living his life. And he can take his dog everywhere. VALUE: blindness
@@ -897,6 +947,8 @@ KEY: This is a pretty ___________ play. VALUE: uninspiring
 KEY: Diana often cries while watching ______ films. VALUE: moving
 KEY: I can't assemble the desk if a _______ is missing. VALUE: fitting
 KEY: Our team is _____ __ win this game! VALUE: be bound to
+KEY: This _____ ______ can't be known outside of the company. VALUE: trade secret
+KEY: This weekend, I’m going to _______ ______ with a good book and some chocolate. VALUE: indulge yourself
 KEY: An _____________ was ________ after a corpse was found in the wood. VALUE: launch an investigation
 KEY: The house was put to ______. VALUE: debris
 KEY: She dedicated her life to helping others, determined to _____ ___ ____  on the world in a meaningful way. VALUE: leave your mark
@@ -911,11 +963,14 @@ KEY: It proved an __________ task to do. VALUE: effortless
 KEY: This time I'll just ____ you a _______, young man. VALUE: give (somebody) a warning
 KEY: She wasn't actually _______ _____ a job, but she has managed to find one. VALUE: chase after
 KEY: The presidents are ___ __ meet next Sunday. VALUE: be due to
+KEY: The judge studied the ________ carefully. VALUE: evidence
+KEY: They enjoyed a hearty _______ _________ for dinner after spending the day outdoors. VALUE: chicken casserole
 KEY: There are many _________ in the text. VALUE: fallacy
 KEY: She greeted us at the doorstep, with an ________ smile on her lips. VALUE: engaging
 KEY: There were _________ mistakes in his test. VALUE: countless
 KEY: I live in a _____ _____ on the 10th floor. VALUE: tower block
 KEY: The disease didn't ______ me __ take part in the school competition. VALUE: enable somebody to do something
+KEY: We must learn from this __________ ________ so that we can prevent it from happening again. VALUE: disastrous incident
 KEY: Do you think a ___________ of advertising cigarettes should be introduced? VALUE: prohibition
 KEY: He's an extrovert, __ ________ to his brother. VALUE: in contrast
 KEY: I think he'll be the ____ _____ in the competition. VALUE: dark horse
@@ -933,6 +988,7 @@ KEY: The _____________ _______ that I'm talking about has been functioning since
 KEY: Don't ________, just make up your mind. VALUE: hesitate
 KEY: Janet works here as a ________. VALUE: linguist
 KEY: I ___ __ ____ my brother really well. VALUE: get on with
+KEY: No matter how much food you bring, he will ___ __________ __ _____. VALUE: eat everything in sight
 KEY: The benefits would surely ________ the risks. VALUE: outweigh
 KEY: We must have the car _____ to the city. VALUE: tow
 KEY: If you haven't sign up for the school trip yet, it's your ____ ______ to do so. VALUE: last chance
@@ -967,8 +1023,10 @@ KEY: You can find the best skin care products by the ____ __ _____. VALUE: word 
 KEY: Her latest _______ was to break into the world of advertising. VALUE: venture
 KEY: Who can not want the best for their own _________?. VALUE: offspring
 KEY: But, in their personal lives, people are being more ________. VALUE: discreet
+KEY: After the ____________ _____, the community came together to rebuild what was lost. VALUE: catastrophic event
 KEY: Fruits and vegetables are an important part of _________. VALUE: nutrition
 KEY: He found a _____ in the market and his company was flourishing. VALUE: niche
+KEY: If you're constantly checking your phone, you will be _________ ____ ___________ all day. VALUE: be bombarded with information
 KEY: She felt a rush of ____________ as she reached the mountain summit and took in the breathtaking view. VALUE: exhilaration
 KEY: It's not mature to _____ ___ your ______. VALUE: stick out your tongue
 KEY: I felt just _______, not exactly hungry. I just wanted to eat something special. VALUE: peckish
@@ -1014,6 +1072,7 @@ KEY: The scientist has proposed a _______ ______ that no one agrees with. VALUE:
 KEY: Your remark is not ________ to the problem. VALUE: relevant
 KEY: The ________ king didn't punish the traitor.  VALUE: merciful
 KEY: They ___ no ____ what they were in for. VALUE: not have a clue
+KEY: _________ are one of traditional Polish dishes. VALUE: dumpling
 KEY: To make your skin ______, use a good lotion and do sports. VALUE: smooth
 KEY: Let's discuss the ______ ____ of the meeting first. VALUE: bottom line
 KEY: It's time to ___ the lawn. VALUE: mow
@@ -1061,6 +1120,7 @@ KEY: What you should also ____ ____ _______ are the circumstances you might have
 KEY: We watched the rabbit ______ carrots. VALUE: crunch
 KEY: It's your __________ and I won't do it. VALUE: obligation
 KEY: She started the speech with pretended _______________. I knew she was feeling terribly confused. VALUE: self-confidence
+KEY: I love to add a _______ of _____ to my water bottle to give it a burst of flavour. VALUE: segment of fruit
 KEY: When I told her about the accident, she immediately _____ into _____. VALUE: burst into tears
 KEY: __ ___ _____, one can say they form a happy relationship. VALUE: by and large
 KEY: Two soldiers were _____ _______ in the operation. VALUE: badly injured
