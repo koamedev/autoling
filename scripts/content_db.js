@@ -10,7 +10,7 @@ const usageExampleCallback = mutations => {
   mutations.forEach(mutation => {
     if (mutation.type === 'childList') {
 
-      currentExample = usageExampleNode.textContent;
+      currentExample = usageExampleNode.textContent.trim();
       updateHint();
       injectAnswerFromHint();
 
@@ -24,7 +24,7 @@ const answerWordCallback = mutations => {
   mutations.forEach(mutation => {
     if (mutation.type === 'childList') {
 
-      updateDatabase(answerWordNode.textContent);
+      updateDatabase(answerWordNode.textContent.trim());
 
     }
   });
@@ -113,7 +113,6 @@ function injectAnswerFromHint() {
           const value = localStorage.getItem(key);
           data += `KEY: ${key} VALUE: ${value}\n`; 
       }
-      // console.log(data);
 
       // Zapisz do pliku
       const blob = new Blob([data], { type: 'text/plain' });
@@ -137,43 +136,65 @@ function injectAnswerFromHint() {
     const reader = new FileReader();
 
     reader.onload = function(e) {
-        const fileContents = e.target.result;
-        const lines = fileContents.split('\n');
+      const fileContents = e.target.result.replace(/\r?\n/g, '\n'); // CRLF -> LF
+      const lines = fileContents.split('\n');
 
-        // Zapisanie danych w pamięci przeglądarki
-        lines.forEach(line => {
-          try {
-            if (!line) return;
-            const key = line.split("KEY: ")[1].split(" VALUE: ")[0];
-            const value = line.split("VALUE: ")[1];
-            if (key && value) {
-              // console.log("k: " + key + " v: " + value + "\n");
-                localStorage.setItem(key.trim(), value.trim());
-            }
-          } catch (error) {
-            alert(error);
-            return;
+      // Zapisanie danych w pamięci przeglądarki
+      let lineCount = 0;
+      let errorLineNums = [];
+      for (const line of lines) {
+        try {
+          if (!line) continue;
+          lineCount++;
+          const key = line.split("KEY: ")[1].split(" VALUE: ")[0];
+          const value = line.split("VALUE: ")[1];
+          if (key && value) {
+              localStorage.setItem(key.trim(), value.trim());
           }
-        });
+        } catch (error) {
+          if (errorLineNums.push(lineCount) > 5) {
+            break; // Przestań importować przy zbyt dużej ilości błędów.
+          }
+          continue;
+        }
+      }
+      // Error handling
+      if (errorLineNums.length > 0) {
+        const errorMsgVariant = errorLineNums.length > 5 ? "Przerwano importowanie słówek na linijkach "
+          : "Niektóre słówka mogły nie zostać zaimportowane. Błędy wystąpiły na linijkach ";
+        const errorMsg = "Podczas importowania wystąpiły błędy. " + errorMsgVariant + errorLineNums+".";
+        console.error(errorMsg);
+        alert(errorMsg);
+      }
+      // Wiadomość o skończeniu importowania
+      {
+      const finalMsgVariant = (() => {
+        if (lineCount == 1) return "słówko.";
+        if (lineCount >= 1 && lineCount <= 4) return "słówka.";
+        return "słówek.";
+      })();
+      const finalMsg = "Sczytano "+lineCount+" "+finalMsgVariant;
+      console.log(finalMsg);
+      alert(finalMsg);
+      }
     };
     reader.readAsText(file);
     }
+    // tworzy element pozwalający na upload pliku
+    function importDataFromFile() {
+      console.log("Importowanie danych AutoLing...");
+      const fileInput = document.createElement('input');
+      fileInput.type = 'file';
+      fileInput.addEventListener('change', importDataCallback);
+  
+      document.body.appendChild(fileInput);
+      fileInput.click();
+      document.body.removeChild(fileInput);
   }
-
-  // tworzy element pozwalający na upload pliku
-  function importDataFromFile() {
-    console.log("Importowanie danych AutoLing...");
-    const fileInput = document.createElement('input');
-    fileInput.type = 'file';
-    fileInput.addEventListener('change', importDataCallback);
-
-    document.body.appendChild(fileInput);
-    fileInput.click();
-    document.body.removeChild(fileInput);
 }
 
 
- function enable() {
+function enable() {
   console.log("AutoLing enabled.")
   localStorage.setItem("al_enabled", "yes");
   enabled = true;
@@ -191,7 +212,7 @@ function injectAnswerFromHint() {
   hintDiv.appendChild(hintText);
 
   // zupdate'owanie elementu
-  currentExample = usageExampleNode.textContent;
+  currentExample = usageExampleNode.textContent.trim();
   updateHint();
   injectAnswerFromHint();
 }
