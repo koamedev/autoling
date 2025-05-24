@@ -2,9 +2,9 @@
 ![Example](./showcase.webp)
 ### Instalacja
 #### Chrome/Edge/Brave/etc.
-Klikasz zielony/niebieski przycisk na górze strony: 'Kod' -> 'Pobierz ZIP'. Rozpakuj gdzieś w niezmiennej lokalizacji. Następnie w przeglądarce wchodzisz na stronę [chrome://extensions](), włączasz tryb dewelopera/programisty i klikasz 'załaduj rozpakowaną wtyczkę' czy coś w ten deseń.
+Klikasz zielony/niebieski przycisk na górze strony: 'Kod' -> 'Pobierz ZIP'. Rozpakuj gdzieś w niezmiennej lokalizacji. Następnie w przeglądarce wchodzisz na stronę [chrome://extensions](chrome://extensions), włączasz tryb dewelopera/programisty i klikasz 'załaduj rozpakowaną wtyczkę' czy coś w ten deseń.
 #### Firefox
-Wchodzisz na stronę [https://gitlab.com/koamedev/autoling/-/releases](Releases) (GitLab) i pobierasz najnowszy plik .xpi, który otwierasz przeglądarką.
+Wchodzisz na stronę [Releases](https://gitlab.com/koamedev/autoling/-/releases) (GitLab) i pobierasz najnowszy plik .xpi, który otwierasz przeglądarką.
 
 
 W pliku 'Startowe_dane.txt' jest przykładowa lista słówek zapisanych przeze mnie (Seria High Note). Aby ich użyć, w aplikacji trzeba kliknąć przycisk 'Importuj dane' i wybrać ten plik.
